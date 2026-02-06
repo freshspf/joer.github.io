@@ -1,7 +1,7 @@
 ---
 title: "JVM GC 详解：从原理到面试"
 excerpt: "深入理解 JVM 垃圾回收机制，包括 GC 算法、收集器分类及性能调优思路"
-date: 2026-03-07 00:00:00 +0800
+date: 2026-02-06 00:00:00 +0800
 categories: Java
 tags:
   - JVM

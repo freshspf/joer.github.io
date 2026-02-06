@@ -3,13 +3,13 @@ minimal_mistakes_skin    : "default"
 
 # 站点设置
 locale                   : "zh-CN"
-title                    : "Joe的博客"
+title                    : "Joer的博客"
 title_separator          : "-"
-name                     : "Joe"
+name                     : "Joer"
 description              : "Java后端开发，面试准备"
-url                      : "https://joer.github.io"
+url                      : "https://freshspf.github.io"
 baseurl                  : # 如有子路径需填写
-repository               : "joer/joer.github.io"
+repository               : "freshspf/freshspf.github.io"
 teaser                   :
 words_per_minute         : 200
 
@@ -30,7 +30,7 @@ og_image                 :
 
 # 作者信息
 author:
-  name             : "Joe"
+  name             : "Joer"
   avatar           : # "/assets/images/bio-photo.jpg"
   bio              : "Java后端开发"
   location         : "China"
@@ -41,7 +41,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/joer"
+      url: "https://github.com/freshspf"
 
 
 # 文件处理
